@@ -1,2 +1,3 @@
 models/
-pytorch_cv/dataset/
+4_pytorch_cv/dataset/
+4_pytorch_cv/helper_functions.py
