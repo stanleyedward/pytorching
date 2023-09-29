@@ -2,3 +2,4 @@ models/
 6_pytorch_custom_datasets/dataset/
 7_modularization/data
 7_modularization/modular/__pycache__
+8_transfer_learning /data
