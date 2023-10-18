@@ -3,3 +3,5 @@ models/
 7_modularization/data
 7_modularization/modular/__pycache__
 8_transfer_learning /data
+9_pytorch_experiment_tracking/data
+9_pytorch_experiment_tracking/.venv
