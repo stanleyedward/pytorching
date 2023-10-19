@@ -5,3 +5,5 @@ models/
 8_transfer_learning /data
 9_pytorch_experiment_tracking/data
 9_pytorch_experiment_tracking/.venv
+11_pytorch_2.0/cifar-10-batches-py
+11_pytorch_2.0/cifar-10-python.tar.gz
